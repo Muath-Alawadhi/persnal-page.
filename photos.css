@@ -1,0 +1,53 @@
+
+body{background-image:url("https://i.stack.imgur.com/SvWWN.png"); 
+    background-size:cover
+      color black
+      font-size 20px;
+      font-weight:lighter
+      text-align left}
+
+
+
+
+img{ width:500px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    background:lightgray;
+    padding:11px;
+    border:10px solid #0f1419;
+    border-radius:1000px;
+}
+
+    
+   
+
+h1
+{color:rgb(252, 248, 248);
+   
+  text-align:center;
+  margin-top:100px;
+  color: rgb(248, 251, 254);
+  font-size: 40px;
+  text-shadow: 2px 1px 3px #0b0606;
+}
+
+
+
+button{
+  color:#0f1419;
+  background:white;
+  border:2px solid #0f1419;
+  border-radius: 7px;
+  padding-left:10px;
+  padding-top:2px;
+  padding-right:10px;
+  padding-bottom:2px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mic{display: block;
+margin-right: 30px;
+text-align :left;}
+

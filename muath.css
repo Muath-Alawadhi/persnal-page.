@@ -1,0 +1,111 @@
+body { 
+  background-image:url("https://files.123freevectors.com/wp-content/original/130970-blue-and-white-polygon-background.jpg"); 
+  background-size:cover;
+    color:black;
+    font-size:20px;
+    font-weight:lighter;
+    text-align:left; 
+  text-align: center;
+
+  color: black;
+  font-size: 30px;
+  margin-top: 0;
+  
+}
+
+  .navbar {
+    overflow: hidden;
+    background-color: rgb(5, 5, 5);
+    width: 100p; 
+    margin-left: 0%;
+    font-family: "Sofia", sans-serif;
+  font-size: 30px;
+  text-shadow: 1px 0px 5px #c4c4cc;
+    
+ }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 30px;
+    text-decoration: none;
+    
+  }
+  
+  
+  
+  .navbar a.right {
+    float: right;
+    background-color: rgb(90, 87, 87);
+    color: rgb(254, 248, 248);
+  }
+  .navbar {
+    overflow: hidden;
+    background-color: rgb(11, 10, 10);
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;}
+  
+  .navbar a.code {
+
+    color: white;  }
+  
+  
+  .navbar a.home {
+    background-color: rgb(90, 87, 87);
+    color: white;
+  }
+  .row {  
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap; 
+    flex-wrap: wrap;
+  }
+  .cyper{
+    width:900px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    background:lightgray;
+    padding:5px;
+    border:30px solid #0f1419;
+    border-radius:120px;}
+  
+    h1{color: rgb(11, 13, 15);
+        font-size: 80px;
+        text-shadow: 4px 1px 2px #0d0909;}
+
+    h2{color: aliceblue;
+        font-size: 50px;
+        text-shadow: 3px 3px 3px #0b0606;}
+
+  h3{
+    color: aliceblue;
+    font-size: 50px;
+    text-shadow: 3px 3px 3px #0b0606;}
+
+    h4{color: aliceblue;
+        font-size: 50px;
+        text-shadow: 3px 3px 3px #0b0606;}
+
+    p{color: rgb(11, 13, 15);
+        font-size: 25px;
+        text-shadow: 0px 0px 2px #0d0909;}
+
+       ul { 
+          display:block;
+          margin-left:auto;
+          margin-right:auto;
+         font-size: 20px;
+      }
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+      
+        color: white;
+      }
